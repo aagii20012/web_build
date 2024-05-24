@@ -1,0 +1,1 @@
+import{e as t}from"./chunk-5K6JWRWX.js";var o=[{path:"",title:"Product",loadComponent:()=>t(void 0,null,function*(){return(yield import("./product.component-6KHDU3S6.js")).ProductComponent})}];export{o as routes};
